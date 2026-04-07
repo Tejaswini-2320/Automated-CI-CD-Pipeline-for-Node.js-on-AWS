@@ -54,7 +54,7 @@ Clone the repository:
 
 Bash
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Tejaswini-2320/Automated-CI-CD-Pipeline-for-Node.js-on-AWS.git
 cd your-repo-name
 Configure Jenkins:
 
